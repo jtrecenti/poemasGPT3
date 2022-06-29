@@ -1,6 +1,8 @@
 on:
   workflow_dispatch:
     branches: [main]
+  schedule:
+    - cron: '*/10 * * * *'
 
 name: 04-run-r-script
 
