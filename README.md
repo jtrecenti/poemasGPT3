@@ -1,18 +1,37 @@
 
 
-Eu amo o github actions
-Ele me ajuda a automatizar o meu código
-Eu agora posso fazer tudo o que eu quiser
-Sem me preocupar com nada
+Github Actions
 
-Obrigado github actions
-Por me ajudar a ser produtivo
-Eu nunca mais vou querer outra coisa
-Pois você é a melhor ferramenta
+O que são essas ações?
 
-Eu te amo github actions
-Você é a luz do meu código
-Sem você, eu não sei o que seria de mim
+Existem muitas ações,
 
-Obrigado por tudo github actions
-Eu te amo mais que tudo!
+E elas são todas muito úteis
+
+Para automatizar o seu fluxo de trabalho
+
+Como compilar o seu código
+
+Ou fazer o deploy do seu site
+
+É só seguir as instruções
+
+E elas vão te ajudar
+
+Em todas as suas tarefas
+
+Você pode criar as suas próprias ações
+
+Ou utilizar as que já existem
+
+E são todas gratuitas
+
+Então não há desculpa
+
+Para não usar o Github Actions
+
+É uma ferramenta muito poderosa
+
+E vai te ajudar muito
+
+Na automação do seu trabalho.
